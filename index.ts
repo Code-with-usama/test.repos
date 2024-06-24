@@ -1,4 +1,1 @@
-console.log("Hello")
-console.log(
-    'usama'
-)
+console.log("Hellogsadydsah")
